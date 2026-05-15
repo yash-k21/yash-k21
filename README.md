@@ -7,7 +7,6 @@
 [![Google Scholar](https://img.shields.io/badge/Scholar-4285F4?style=flat-square&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=A1F2LJIAAAAJ)
 
 </div>
-
 ---
 I work on problems at the intersection of economics and data science, with a particular interest in causal inference and computational methods applied to economic questions.
 ---
