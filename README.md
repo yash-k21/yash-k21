@@ -36,14 +36,3 @@ I work on problems at the intersection of economics and data science, with a par
 ![Google Earth Engine](https://img.shields.io/badge/Earth%20Engine-4285F4?style=flat-square&logo=google&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-2D3748?style=flat-square&logoColor=white)
 
----
-
-## 📊 Stats
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=yash-k21&show_icons=true&hide_border=true&title_color=111827&icon_color=2563EB&text_color=374151&bg_color=ffffff&hide=stars&count_private=true&include_all_commits=true" />
-&nbsp;&nbsp;
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yash-k21&layout=compact&hide_border=true&title_color=111827&text_color=374151&bg_color=ffffff&langs_count=6" />
-
-</div>
