@@ -42,8 +42,8 @@ I work on problems at the intersection of economics and data science, with a par
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=yashkhaitan&show_icons=true&hide_border=true&title_color=111827&icon_color=2563EB&text_color=374151&bg_color=ffffff&hide=stars&count_private=true&include_all_commits=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=yash-k21&show_icons=true&hide_border=true&title_color=111827&icon_color=2563EB&text_color=374151&bg_color=ffffff&hide=stars&count_private=true&include_all_commits=true" />
 &nbsp;&nbsp;
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashkhaitan&layout=compact&hide_border=true&title_color=111827&text_color=374151&bg_color=ffffff&langs_count=6" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yash-k21&layout=compact&hide_border=true&title_color=111827&text_color=374151&bg_color=ffffff&langs_count=6" />
 
 </div>
